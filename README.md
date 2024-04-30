@@ -11,11 +11,6 @@ Robotic Process Automation (RPA) is a technology that allows organizations to au
 
 **Robotic Process Automation Tool:** UiPath
 
-**PIL:** It is used for Image Processing ,storing ,integration with Tkinter and Cross-platform Compatibility.
-
-**OpenCv:** It is used for its efficient image handling, pixel-level access, versatile format support, visualization tools.
-
-**OS:** It is used for path manipulation and interaction with OS system.
 
 ## Supported OS
 
